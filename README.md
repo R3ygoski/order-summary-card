@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-made-with-less-hSznQ4SneN)
+- Live Site URL: [Github](https://r3ygoski.github.io/order-summary-card/)
 
 ## My process
 
